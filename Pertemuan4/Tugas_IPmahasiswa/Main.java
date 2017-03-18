@@ -13,7 +13,6 @@ public class Main {
    public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
       Main getRange = new Main();
-      int check;
       float inputNilai, rata = 0;
       byte maks = 50, n = 1, i = 0, ygLulus = 0, gkLulus = 0;
       float dataNilai[] = new float[maks];
