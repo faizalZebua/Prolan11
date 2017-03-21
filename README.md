@@ -1,3 +1,5 @@
+![alt tag](https://www.dropbox.com/s/2b0rlr5pxjtk1p4/java.jpg?dl=0)
+
 # Deskripsi
 
 A). Dalam pembahasan pemrograman berbasis objek (PBO) kali ini, saya mengambil objek sebuah Persegi yang juga berperan sebagai Parent Class yang mana memiliki property/attribute :
