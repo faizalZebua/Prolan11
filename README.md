@@ -1,4 +1,4 @@
-![alt tag](https://www.dropbox.com/s/2b0rlr5pxjtk1p4/java.jpg?dl=0)
+![alt tag](https://www.dropbox.com/s/2b0rlr5pxjtk1p4/java.jpg)
 
 # Deskripsi
 
