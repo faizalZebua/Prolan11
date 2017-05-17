@@ -1,0 +1,2 @@
+Abstraction merupakan sebuah model, atau ideal. Tidak perlu memiliki semua detail dari sesuatu, namun memiliki parmeter-parameter yang sifatnya umum yang nantinya akan bisadiisi dengan detail-detail tertentu nantinya.
+Sedangkan jika Enkapsulasi secara definisi adalah mekanisme pembungkusan untuk menyembunyikan atau melindungi suatu proses dari kemungkinan interferensi atau penyalahgunaan dari luar sistem juga sekaligus menyederhanakan penggunaan system itu sendiri. 
