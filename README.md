@@ -27,7 +27,7 @@ Dan untuk method itu sediri, terdapat method :
 
 # Hotel-Panda Project
 
-## Project Hotel-panda panda merupakan project sistem admin sederhana yang diperuntukan dalam mengelola Hotel-panda
+#### Project Hotel-panda panda merupakan project sistem admin sederhana yang diperuntukan dalam mengelola hotel
 
 ## Configuration
 * Platform: Java 1.8.0_121
