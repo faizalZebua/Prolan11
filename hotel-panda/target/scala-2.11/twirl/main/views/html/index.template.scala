@@ -31,7 +31,7 @@ class index extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Forma
 
 Seq[Any](format.raw/*1.4*/("""
 
-"""),_display_(/*3.2*/main("Welcome to Play")/*3.25*/ {_display_(Seq[Any](format.raw/*3.27*/("""
+"""),_display_(/*3.2*/main("Dashboard")/*3.19*/ {_display_(Seq[Any](format.raw/*3.21*/("""
   """),format.raw/*4.3*/("""<h1>Welcome to Play!</h1>
 """)))}),format.raw/*5.2*/("""
 """))
@@ -54,10 +54,10 @@ Seq[Any](format.raw/*1.4*/("""
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Sun Jun 11 08:54:47 ICT 2017
+                  DATE: Sun Jun 11 09:43:01 ICT 2017
                   SOURCE: D:/Research/Java/hotel-panda/app/views/index.scala.html
-                  HASH: dfddc0e148a437fe41eda85308d01fad675df0ae
-                  MATRIX: 738->1|834->3|864->8|895->31|934->33|964->37|1021->65
+                  HASH: a6cc63ad302da738b85f4f451a09bbfeb21fce41
+                  MATRIX: 738->1|834->3|864->8|889->25|928->27|958->31|1015->59
                   LINES: 27->1|32->1|34->3|34->3|34->3|35->4|36->5
                   -- GENERATED --
               */

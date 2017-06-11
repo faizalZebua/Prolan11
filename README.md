@@ -32,6 +32,8 @@ Dan untuk method itu sediri, terdapat method :
 ## Configuration
 * Platform: Java 1.8.0_121
 * Framework: Play Framework 2.6.0
+* CSS Framework: Bootstrap
+* Template Engine: Twirl
 * Build Tool: sbt 0.13.13
 * Command Line Tool: gitter8
 * Database: Mysql
