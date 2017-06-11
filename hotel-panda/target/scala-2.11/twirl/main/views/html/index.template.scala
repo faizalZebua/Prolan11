@@ -31,9 +31,11 @@ class index extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Forma
 
 Seq[Any](format.raw/*1.4*/("""
 
-"""),_display_(/*3.2*/main("Dashboard")/*3.19*/ {_display_(Seq[Any](format.raw/*3.21*/("""
-  """),format.raw/*4.3*/("""<h1>Welcome to Play!</h1>
-""")))}),format.raw/*5.2*/("""
+"""),_display_(/*3.2*/main("Homepage")/*3.18*/ {_display_(Seq[Any](format.raw/*3.20*/("""
+  """),format.raw/*4.3*/("""<div class="content">
+    <h1>Hello World!!</h1>
+  </div>
+""")))}),format.raw/*7.2*/("""
 """))
       }
     }
@@ -54,11 +56,11 @@ Seq[Any](format.raw/*1.4*/("""
 object index extends index_Scope0.index
               /*
                   -- GENERATED --
-                  DATE: Sun Jun 11 09:43:01 ICT 2017
+                  DATE: Sun Jun 11 16:23:14 ICT 2017
                   SOURCE: D:/Research/Java/hotel-panda/app/views/index.scala.html
-                  HASH: a6cc63ad302da738b85f4f451a09bbfeb21fce41
-                  MATRIX: 738->1|834->3|864->8|889->25|928->27|958->31|1015->59
-                  LINES: 27->1|32->1|34->3|34->3|34->3|35->4|36->5
+                  HASH: 221d3f3fe5a5137a56a9291c7fceddb2557b0956
+                  MATRIX: 738->1|834->3|864->8|888->24|927->26|957->30|1048->92
+                  LINES: 27->1|32->1|34->3|34->3|34->3|35->4|38->7
                   -- GENERATED --
               */
           

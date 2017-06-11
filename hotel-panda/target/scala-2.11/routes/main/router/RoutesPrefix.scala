@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:D:/Research/Java/hotel-panda/conf/routes
-// @DATE:Sun Jun 11 08:54:47 ICT 2017
+// @DATE:Sun Jun 11 16:43:00 ICT 2017
 
 
 package router {
